@@ -1,17 +1,33 @@
 {
   "folders": [
-	{
-		"path": "hello_world"
-	},
-	{
-		"path": "hello_cargo"
-	},
-	{
-		"path": "guessing_game"
-	},
-	{
-		"path": "branches"
-	}
-],
+		{
+			"name": "hello_world",
+			"path": "hello_world"
+		},
+		{
+			"name": "variables",
+			"path": "variables"
+		},
+		{
+			"name": "data_types",
+			"path": "data_types"
+		},
+		{
+			"name": "functions",
+			"path": "functions"
+		},
+		{
+			"name": "hello_cargo",
+			"path": "hello_cargo"
+		},
+		{
+			"name": "guessing_game",
+			"path": "guessing_game"
+		},
+		{
+			"name": "branches",
+			"path": "branches"
+		}
+	],
   "settings": {}
 }
