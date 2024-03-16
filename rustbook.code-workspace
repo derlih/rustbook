@@ -1,0 +1,17 @@
+{
+  "folders": [
+	{
+		"path": "hello_world"
+	},
+	{
+		"path": "hello_cargo"
+	},
+	{
+		"path": "guessing_game"
+	},
+	{
+		"path": "branches"
+	}
+],
+  "settings": {}
+}
